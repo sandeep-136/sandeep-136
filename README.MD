@@ -14,13 +14,13 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Sandeep&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20|%20Full%20Stack%20(MERN)%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Sandeep&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=55"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=3500&pause=1200&color=A371F7&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub+Profile!;Computer+Science+Engineering+Student;Full+Stack+(MERN)+Developer;Cybersecurity+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Wireshark+%7C+Nmap+%7C+Burp+Suite;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=3500&pause=1200&color=A371F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile%21;Computer+Science+Engineering+Student;Full+Stack+MERN+Developer;Cybersecurity+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Wireshark+%7C+Nmap+%7C+Burp+Suite;Always+Learning+New+Technologies"/>
 
 </p>
 
