@@ -1,107 +1,61 @@
 # 👋 Hi, I'm Sandeep Sagar
 
-### 🤖 AI Engineer | Machine Learning | Generative AI | Python
+### Full-Stack Web (React, Node.js) | Python & Machine Learning
 
-I'm a Computer Science and Engineering student focused on **Artificial Intelligence, Machine Learning, and Python**.
-
-I'm interested in building intelligent applications using **Machine Learning, Deep Learning, NLP, and Generative AI** while continuously strengthening my practical skills through real-world projects.
+Final-year Computer Science and Engineering student at HKBK College of Engineering, Bengaluru. I build web apps with **React and Node.js/Express**, and I work on **Python and machine learning** projects. I am looking for internships and entry-level roles.
 
 > 🚀 Learn → Build → Experiment → Deploy → Improve
 
 ---
 
-## 🧠 About Me
+## 🌐 Featured Projects
 
-- 🎓 B.E. Computer Science & Engineering student at HKBK College of Engineering
-- 🤖 Focused on **Artificial Intelligence & Machine Learning**
-- 🐍 Building intelligent applications with **Python**
-- 🧠 Exploring **Deep Learning, NLP & Generative AI**
-- 🔗 Learning **LangChain, RAG & LLM Applications**
-- 💼 Artificial Intelligence Intern at **CODEC Technologies**
-- 🎯 Goal: Become a production-ready **AI Engineer**
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🧑‍💻 [**DevConnect**](https://github.com/sandeep-136/devconnect) · [live demo](https://devconnect-mkp1.onrender.com) | A community app for developers: sign up and log in, profiles with skills, a post feed, follow other developers, search. | React, Node/Express, SQLite, JWT |
+| 🎨 [**Portfolio**](https://github.com/sandeep-136/portfolio-next-level) · [live](https://portfolio-next-level-psi.vercel.app) | My personal portfolio site. | React, Vite, Tailwind CSS, Framer Motion |
+| ✍️ [**Handwritten Digit Recognizer**](https://github.com/sandeep-136/handwritten-digit-recognizer) | Recognizes handwritten digits (0-9) with a CNN trained on MNIST. | Python, Deep Learning |
+| 🎬 [**Movie Recommendation System**](https://github.com/sandeep-136/movie-recommendation-system) | Content-based recommender using genre similarity, TF-IDF and cosine similarity. | Python, Machine Learning |
+
+The DevConnect demo runs on a free host, so the first load can take about a minute.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🤖 Artificial Intelligence & Machine Learning
-`Artificial Intelligence` `Machine Learning` `Deep Learning` `Generative AI` `NLP`
+**Web:** `React` `JavaScript` `Node.js` `Express` `Tailwind CSS`
 
-### 🐍 Programming
-`Python`
+**Programming:** `Python`
 
-### 📚 Frameworks & Libraries
-`TensorFlow` `Scikit-learn` `NumPy` `Pandas` `Matplotlib`
+**AI & ML:** `Machine Learning` `Deep Learning` `NLP` `Generative AI` `TensorFlow` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `LangChain` `RAG`
 
-### 🧠 AI Technologies
-`LangChain` `RAG` `LLM Applications`
+**Databases:** `SQL` `MySQL` `MongoDB`
 
-### 🗄️ Databases
-`SQL` `MySQL` `MongoDB`
-
-### 🔧 Tools
-`Git` `GitHub` `Linux` `VS Code` `Jupyter Notebook`
+**Tools:** `Git` `GitHub` `Linux` `VS Code` `Jupyter Notebook`
 
 ---
 
-## 🚀 AI & Machine Learning Projects
+## 🤖 More AI & ML Projects
 
-### 📄 AI Resume Analyzer
-AI-powered application that analyzes resumes, extracts relevant information, identifies skills, and provides intelligent feedback using Python and NLP techniques.
-
-**Tech:** Python • NLP • AI
-
----
-
-### 💬 Document Chatbot using RAG
-Retrieval-Augmented Generation application that allows users to interact with documents and receive context-aware answers using vector search and large language models.
-
-**Tech:** Python • LangChain • RAG • Vector Search • LLMs
-
----
-
-### 🌱 Plant Disease Detection
-Computer vision and deep learning project focused on classifying plant diseases from images using image preprocessing and deep learning techniques.
-
-**Tech:** Python • Deep Learning • Computer Vision
-
----
-
-### 🧠 Face Emotion Detection
-Computer vision project focused on detecting facial emotions from images using OpenCV and deep learning techniques.
-
-**Tech:** Python • OpenCV • Deep Learning
+- 📄 **AI Resume Analyzer** - analyzes resumes, extracts skills and gives feedback using Python and NLP.
+- 💬 **Document Chatbot using RAG** - ask questions about documents using vector search and LLMs (Python, LangChain).
+- 🌱 **Plant Disease Detection** - classifies plant diseases from images with deep learning.
+- 🧠 **Face Emotion Detection** - detects facial emotions from images using OpenCV and deep learning.
 
 ---
 
 ## 💼 Experience
 
-### Artificial Intelligence Intern — CODEC Technologies
-
-- Gained practical exposure to Artificial Intelligence concepts and applications.
-- Worked with AI-related tools and development workflows.
-- Strengthened practical understanding of AI development through hands-on experience.
+- **Artificial Intelligence Intern**, CODEC Technologies
+- **Web Development Intern**, Prodigy InfoTech (March 2026, one month)
 
 ---
 
-## 🏆 Achievements & Learning
+## 📜 Certifications & Learning
 
-- 🚀 Designed and deployed a personal AI-focused portfolio using React, Vite, Tailwind CSS and Framer Motion.
-- 🌐 Published projects on GitHub and deployed a production portfolio using Vercel.
-- ☁️ Completed hands-on AWS cloud learning and academic practical work.
-- 🧠 Actively building practical skills in AI, Machine Learning, Generative AI and RAG applications.
-
----
-
-## 📜 Certifications & Continuous Learning
-
-- 🏅 **Anthropic — AI Fluency: Framework & Foundations**
-- 📘 **Microsoft Learn — AI & Cloud Learning Modules**
-- ☁️ **AWS Academy — Cloud Learning & Hands-on Academic Experience**
-
-### Currently Learning
-
-`Deep Learning` `Generative AI` `LangChain` `RAG` `LLM Applications`
+- Anthropic - AI Fluency: Framework & Foundations
+- Microsoft Learn - AI & Cloud Learning Modules
+- AWS Academy - Cloud Learning & Hands-on Academic Experience
 
 ---
 
@@ -114,34 +68,10 @@ Computer vision project focused on detecting facial emotions from images using O
 
 ---
 
-## 🎯 Core Strengths
-
-`Problem Solving` • `Python Development` • `Machine Learning` • `AI Application Development` • `Continuous Learning` • `Git & GitHub`
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sandeep-sagar-04346230/">
-LinkedIn
-</a>
-&nbsp; • &nbsp;
-
-<a href="mailto:sandeepsagarsagar37@gmail.com">
-Email
-</a>
-&nbsp; • &nbsp;
-
-<a href="https://github.com/Sandeep-136">
-GitHub
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>🤖 Building intelligent systems with AI & Machine Learning 🚀</b>
+<a href="https://www.linkedin.com/in/sandeep-sagar-04346230a">LinkedIn</a> &nbsp;•&nbsp;
+<a href="mailto:sandeepsagarsagar37@gmail.com">Email</a> &nbsp;•&nbsp;
+<a href="https://github.com/sandeep-136">GitHub</a>
 </p>
