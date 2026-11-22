@@ -3,13 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;AI%2FML+Engineer;React+%C2%B7+Node.js+%C2%B7+Python;Deployed+projects%2C+not+just+repos" alt="Typing SVG" />
-</div>
-
-<div align="center">
 
 Final-year Computer Science and Engineering student at HKBK College of Engineering, Bengaluru.<br/>
-I build and deploy full-stack web apps with **React and Node.js/Express**, and train **Python machine-learning models**.<br/>
+I build and ship software end to end: **full-stack web applications** and **machine-learning models in Python**.<br/>
 Open to internships and entry-level roles.
 
 <a href="#about">About</a> · <a href="#web-projects">Full-Stack Projects</a> · <a href="#aiml-projects">AI/ML Projects</a> · <a href="#experience">Experience</a> · <a href="#stats">Stats</a>
@@ -22,7 +18,7 @@ Open to internships and entry-level roles.
 🎋 I'm currently working on **Placement Tracker - a full-stack internship & job application tracker**<br>
 👯 I'm looking to collaborate on **full-stack web apps and AI/ML projects**<br>
 🌱 I'm currently learning **AI/ML engineering - model training and evaluation**<br>
-💬 Ask me about **React, Node.js, Express, Python, PostgreSQL**<br>
+💬 Ask me about **full-stack development, machine learning, or anything I have shipped**<br>
 ⚡ Fun fact **Most of my projects have live demos you can try right now**
 
 ## 🌐 Socials:
