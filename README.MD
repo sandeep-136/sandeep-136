@@ -97,12 +97,6 @@ The demos run on free hosts, so the first load can take about a minute.
 - **Artificial Intelligence Intern**, CODEC Technologies
 - **Web Development Intern**, Prodigy InfoTech (March 2026, one month)
 
-## 📜 Certifications & Learning
-
-- Anthropic - AI Fluency: Framework & Foundations
-- Microsoft Learn - AI & Cloud Learning Modules
-- AWS Academy - Cloud Learning & Hands-on Academic Experience
-
 ---
 
 <a name="stats"></a>
