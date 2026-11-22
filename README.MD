@@ -88,4 +88,4 @@ The demos run on free hosts, so the first load can take about a minute.
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=sandeep-136&icon=0&color=0)](https://github.com/sandeep-136)
+[![](https://komarev.com/ghpvc/?username=sandeep-136&label=Profile%20views&color=blue&style=flat)](https://github.com/sandeep-136)
