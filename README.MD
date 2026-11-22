@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Sandeep%20Sagar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20AI%2FML%20Engineering&descAlignY=56&descSize=17" width="100%" />
+  <img src="assets/header.svg" width="100%" />
 </div>
 
 <div align="center">
@@ -118,7 +118,7 @@ The demos run on free hosts, so the first load can take about a minute.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+  <img src="assets/footer.svg" width="100%" />
   <br/>
   <a href="https://github.com/sandeep-136"><img src="https://komarev.com/ghpvc/?username=sandeep-136&label=Profile%20views&color=blue&style=flat" alt="Profile views" /></a>
 </div>
