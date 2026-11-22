@@ -90,8 +90,14 @@ The demos run on free hosts, so the first load can take about a minute.
 <a name="experience"></a>
 ## 💼 Experience
 
-- **Artificial Intelligence Intern**, CODEC Technologies
+- **Artificial Intelligence Intern**, CODEC Technologies (Aug 2026 - Sep 2026) - hands-on AI/ML project work in Python
 - **Web Development Intern**, Prodigy InfoTech (March 2026, one month)
+
+## 🎓 Education & Campus
+
+- **B.E. Computer Science and Engineering**, HKBK College of Engineering, Bengaluru (VTU, 2027) - CGPA 7.1/10
+- **Internshala Student Partner** - represented Internshala in the student community and shared internship and career resources
+- Languages: English, Kannada, Hindi
 
 ---
 
