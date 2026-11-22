@@ -10,7 +10,7 @@ Final-year Computer Science and Engineering student at HKBK College of Engineeri
 👯 I'm looking to collaborate on **full-stack web apps and AI/ML projects**<br>
 🌱 I'm currently learning **AI/ML engineering - model training and evaluation**<br>
 💬 Ask me about **React, Node.js, Express, Python, PostgreSQL**<br>
-⚡ Fun fact **I ship a new project milestone every single day**
+⚡ Fun fact **Every project on this profile runs live on the cloud - not just code in a repo**
 
 ## 🌐 Socials:
 
