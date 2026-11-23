@@ -80,10 +80,10 @@ The demos run on free hosts, so the first load can take about a minute.
 <a name="aiml-projects"></a>
 ## 🤖 AI / Machine Learning Projects
 
-| Project | What it is | Code |
-| --- | --- | --- |
-| ✍️ **Handwritten Digit Recognizer** | Recognizes handwritten digits (0-9) with a CNN trained on MNIST. | [![Source Code](https://img.shields.io/badge/Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeep-136/handwritten-digit-recognizer) |
-| 🎬 **Movie Recommendation System** | Content-based recommender using genre similarity, TF-IDF and cosine similarity. | [![Source Code](https://img.shields.io/badge/Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeep-136/movie-recommendation-system) |
+| Project | What it is |
+| --- | --- |
+| ✍️ [**Handwritten Digit Recognizer**](https://github.com/sandeep-136/handwritten-digit-recognizer) | Recognizes handwritten digits (0-9) with a CNN trained on MNIST. |
+| 🎬 [**Movie Recommendation System**](https://github.com/sandeep-136/movie-recommendation-system) | Content-based recommender using genre similarity, TF-IDF and cosine similarity. |
 
 ---
 
