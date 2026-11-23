@@ -90,7 +90,7 @@ The demos run on free hosts, so the first load can take about a minute.
 <a name="experience"></a>
 ## 💼 Experience
 
-- **Artificial Intelligence Intern**, CODEC Technologies (Aug 2026 - Sep 2026) - hands-on AI/ML project work in Python
+- **Artificial Intelligence Intern**, CODEC Technologies (Aug 2026 - Sep 2026)
 - **Web Development Intern**, Prodigy InfoTech (March 2026, one month)
 
 ## 🎓 Education & Campus
